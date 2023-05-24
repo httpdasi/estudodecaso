@@ -9,7 +9,7 @@ const formulario = document.getElementById('formulario')
 let output = ``
 
 const carregarElemento = posts =>{
-  const usuarios = posts.usuarios;
+  const usuarios = posts;
 
   usuarios.forEach(usuario => {
     output += `
@@ -60,9 +60,3 @@ formulario.addEventListener('submit', e => {
     })
     .catch(error => console.log(error)); 
 });
-
-
-
-
-
-  
