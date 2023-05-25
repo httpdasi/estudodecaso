@@ -1,24 +1,18 @@
 {
   "usuarios": [
     {
-      "id": 1,
-      "nome": "João",
+      "nome": "  SamuelOA",
+      "reserva": "2023-05-24",
       "hotel": "Trivago",
-      "reserva": "12-12-1202",
-      "quarto": 12
+      "quarto": "standard",
+      "id": 1
     },
     {
-      "id": 2,
-      "nome": "Samuel",
-      "hotel": "Trivego",
-      "reserva": "12-11-1202",
-      "quarto": 12
-    },
-    {
-      "id": 3
-    },
-    {
-      "id": 4
+      "nome": "BBB",
+      "reserva": "2023-05-25",
+      "hotel": "B",
+      "quarto": "deluxe",
+      "id": 2
     }
   ]
 }
